@@ -1,0 +1,14 @@
+{
+    "name": "hmphu/magevi",
+    "type": "magento-module",
+    "description": "https://github.com/hmphu/magevi.git/issues",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"PhuHM",
+            "email":"hmphu.it@gmail.com"
+        }
+    ]
+}
